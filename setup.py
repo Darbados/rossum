@@ -38,7 +38,7 @@ setup(
         "requests",
         "jsondiff",
         "tabulate",
-        "openpyxl==3.0.10",
+        "openpyxl==3.1.5",
         "jmespath",
         "polling2",
         "more_itertools",
